@@ -4,3 +4,6 @@ lib/*
 
 # files
 *.html
+config/secrets.env
+
+!graphs/*
